@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ICPSLC24-10NA")(type "Legacy")(uri "${KIPRJMOD}/ICPSLC24-10NA.lib")(options "")(descr ""))
+)
