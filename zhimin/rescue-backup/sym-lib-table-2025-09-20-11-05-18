@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ICPSLC24-10NA")(type "KiCad")(uri "${KIPRJMOD}/ICPSLC24-10NA.kicad_sym")(options "")(descr ""))
+)
